@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "431487665058",
+    "firebase_url": "https://first-tide-187706.firebaseio.com",
+    "project_id": "first-tide-187706",
+    "storage_bucket": "first-tide-187706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431487665058:android:76e8b6909e97cf20",
+        "android_client_info": {
+          "package_name": "com.example.rahullad.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431487665058-85ikqf0rauvqn3tn2h66bj6k77amu5b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahullad.sociallogin",
+            "certificate_hash": "000dfe76716d604793ec6532cd5eb283c633fe8b"
+          }
+        },
+        {
+          "client_id": "431487665058-cj50pa75tk8j8b7tgklm4t58fa93aal7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-qPwlPclAKDIHNsdU0ZOaNKdE_Q6nmRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431487665058-cj50pa75tk8j8b7tgklm4t58fa93aal7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
